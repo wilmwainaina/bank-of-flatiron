@@ -1,8 +1,31 @@
-# React + Vite
+# bank-of-flatiron
+ 
+it allows the user to; 1. see their past trancations
+                       2. filter certain transactions to match their descriptions
+                       3. submit a new transactions
+ # table of content
+  .project structure
+  .getting started
+  .start application
+  .side notes
+  .suggestions
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# project structure
+app.jsx
+main.jsx
+searchbar.jsx
+transaxtionform.jsx
+transactiontable.jsx
 
-Currently, two official plugins are available:
+# getting started
+1.Clone the repository :git clone https://github.com/wilmwainaina/bank-of-flatiron
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2.Navigate to the project directory:cd bank-of-flatiron
+
+### Start the Application
+
+
+Open the terminal and write npm run dev.
+
+# License
+This code is licensed under the MIT License. Feel free to use and modify it for your purposes.
