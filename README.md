@@ -21,10 +21,11 @@ transactiontable.jsx
 
 2.Navigate to the project directory:cd bank-of-flatiron
 
-### Start the Application
-
-
+### Start the application
 Open the terminal and write npm run dev.
+
+# deploy link
+https://wilmwainaina.github.io/bank-of-flatiron
 
 # License
 This code is licensed under the MIT License. Feel free to use and modify it for your purposes.
